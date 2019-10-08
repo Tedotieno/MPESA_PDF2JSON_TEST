@@ -1,0 +1,17 @@
+{
+  "name": "PDF-Extracter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Teddy Otieno Asola",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "node-qpdf": "^1.0.3",
+    "pdf2json": "^1.1.8"
+  }
+}
